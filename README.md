@@ -17,7 +17,7 @@
   
   ![3 dark](https://github-readme-stats-d71y.vercel.app/api/top-langs?username=beratdm&layout=compact&langs_count=13&theme=dark#gh-dark-mode-only)
   
-  <img src="https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif" width="30%">
+  <img src="https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif" width="40%">
   
   <!--
   ![bg](https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif)
