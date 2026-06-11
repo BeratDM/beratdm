@@ -23,6 +23,12 @@
   <!--
   ![bg](https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif)
   
-  -->  
+  ![counter](https://komarev.com/ghpvc/?username=beratdm&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  
+  -->
+
+  ![counter](https://komarev.com/ghpvc/?username=beratdm&label=Profile%20views&color=0b7048&style=pixel)
+  
 </div>
+
 
