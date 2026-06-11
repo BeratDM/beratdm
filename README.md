@@ -16,19 +16,16 @@
   -->
   
   ![3 dark](https://github-readme-stats-d71y.vercel.app/api/top-langs?username=beratdm&layout=compact&langs_count=13&theme=dark#gh-dark-mode-only)
-
   
   <img src="https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif" width="30%">
-
+  
   <!--
   ![bg](https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif)
-  
   ![counter](https://komarev.com/ghpvc/?username=beratdm&label=Profile%20views&color=0e75b6&style=for-the-badge)
-  
-  -->
-
   ![counter](https://komarev.com/ghpvc/?username=beratdm&label=Profile%20views&color=0b7048&style=pixel)
+  -->
   
+  <img src="https://komarev.com/ghpvc/?username=beratdm&label=Profile%20views&color=0b7048&style=pixel">
 </div>
 
 
