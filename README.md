@@ -1,8 +1,4 @@
 
-
-
-
-
 <!-- !
 [1](https://github-readme-stats-d71y.vercel.app/api/top-langs?username=beratdm&layout=compact&theme=radical&langs_count=13&&bg_color=25,e96443,904e95&title_color=fff&text_color=fff)
 
@@ -16,16 +12,15 @@
   -->
   
   ![3 dark](https://github-readme-stats-d71y.vercel.app/api/top-langs?username=beratdm&layout=compact&langs_count=13&theme=dark#gh-dark-mode-only)
-  
-  <img src="https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif" width="33%">
-  
+  <div align="center">
+    <img src="https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif" width="280px">
+  </div>
   <!--
   ![bg](https://pub-55a8605bd8ee494ab002c0bb70e15fed.r2.dev/github/background221.gif)
   ![counter](https://komarev.com/ghpvc/?username=beratdm&label=Profile%20views&color=0e75b6&style=for-the-badge)
   ![counter](https://komarev.com/ghpvc/?username=beratdm&label=Profile%20views&color=0b7048&style=pixel)
   -->
-  
   <img src="https://komarev.com/ghpvc/?username=beratdm&label=Profile%20views&color=0b7048&style=pixel">
 </div>
 
-
+![](https://hit.yhype.me/github/profile?account_id=44789586)
